@@ -1,6 +1,8 @@
 # Line Notify Example
 
-<br/>請參考 http://studyhost.blogspot.tw/2016/12/linebot6-botline-notify.html
+<br/>這個範例展示如何使用 Line Notify ，透過OAuth取得可發送Line訊息給用戶的Token
+<br/>並透過該Token免費發送Line Message
+<br/>Line Notify 概念請參考 http://studyhost.blogspot.tw/2016/12/linebot6-botline-notify.html
 
 <br/>說明: 
 <ol>
@@ -9,7 +11,7 @@
 <li>同時Callback.aspx.cs中的client_id與client_secret必須改為擬申請LineNotify後取得的正確資料</li>
 <li>相關說明請參考 : http://studyhost.blogspot.tw/2016/12/linebot6-botline-notify.html </li>
 </ol>
-<br/>使用: 
+<br/>使用(請於VS2015中，執行default.aspx): 
 <ol>
 <li>請點選用戶註冊，將會取得該登入用戶的發送訊息token</li>
 <li>接著輸入訊息後，按下發送鈕即可測試</li>
