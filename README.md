@@ -1,18 +1,21 @@
 # Line Notify Example
 
-<br/>³o­Ó½d¨Ò®i¥Ü¦p¦ó¨Ï¥Î Line Notify ¡A³z¹LOAuth¨ú±o¥iµo°eLine°T®§µ¹¥Î¤áªºToken
-<br/>¨Ã³z¹L¸ÓToken§K¶Oµo°eLine Message
-<br/>Line Notify ·§©À½Ğ°Ñ¦Ò http://studyhost.blogspot.tw/2016/12/linebot6-botline-notify.html
+<br/>é€™å€‹ç¯„ä¾‹å±•ç¤ºå¦‚ä½•ä½¿ç”¨ Line Notify ï¼Œé€éOAuthå–å¾—å¯ç™¼é€Lineè¨Šæ¯çµ¦ç”¨æˆ¶çš„Token
+<br/>ä¸¦é€éè©²Tokenå…è²»ç™¼é€Line Message
+<br/>Line Notify æ¦‚å¿µè«‹åƒè€ƒ http://studyhost.blogspot.tw/2016/12/linebot6-botline-notify.html
 
-<br/>»¡©ú: 
+<br/>èªªæ˜: 
 <ol>
-<li>¨Ï¥Î¦¹½d¨ÒSource code¡A½Ğ¥ı§ó´«µ{¦¡½X¤¤¡m§AªºClient_id¡n<br/> (¦ì©ódefault.aspx) </li>
-<li>¨Ã¥B½Õ¾ã§A¥Ó½Ğ¦nªºLineNotify³]©wªºcallback url <br/> (´ú¸Õ¶¥¬qÀ³¬°http://localhost:3696/Callback.aspx) </li>
-<li>¦P®ÉCallback.aspx.cs¤¤ªºclient_id»Pclient_secret¥²¶·§ï¬°ÀÀ¥Ó½ĞLineNotify«á¨ú±oªº¥¿½T¸ê®Æ</li>
-<li>¬ÛÃö»¡©ú½Ğ°Ñ¦Ò : http://studyhost.blogspot.tw/2016/12/linebot6-botline-notify.html </li>
+<li>ä½¿ç”¨æ­¤ç¯„ä¾‹Source codeï¼Œè«‹å…ˆæ›´æ›ç¨‹å¼ç¢¼ä¸­ã€Šä½ çš„Client_idã€‹<br/> (ä½æ–¼default.aspx) </li>
+<li>ä¸¦ä¸”èª¿æ•´ä½ ç”³è«‹å¥½çš„LineNotifyè¨­å®šçš„callback url <br/> (æ¸¬è©¦éšæ®µæ‡‰ç‚ºhttp://localhost:3696/Callback.aspx) </li>
+<li>åŒæ™‚Callback.aspx.csä¸­çš„client_idèˆ‡client_secretå¿…é ˆæ”¹ç‚ºæ“¬ç”³è«‹LineNotifyå¾Œå–å¾—çš„æ­£ç¢ºè³‡æ–™</li>
+<li>ç›¸é—œèªªæ˜è«‹åƒè€ƒ : http://studyhost.blogspot.tw/2016/12/linebot6-botline-notify.html </li>
 </ol>
-<br/>¨Ï¥Î(½Ğ©óVS2015¤¤¡A°õ¦ædefault.aspx): 
+<br/>ä½¿ç”¨(è«‹æ–¼VS2015ä¸­ï¼ŒåŸ·è¡Œdefault.aspx): 
 <ol>
-<li>½ĞÂI¿ï¥Î¤áµù¥U¡A±N·|¨ú±o¸Óµn¤J¥Î¤áªºµo°e°T®§token</li>
-<li>±µµÛ¿é¤J°T®§«á¡A«ö¤Uµo°e¶s§Y¥i´ú¸Õ</li>
+<li>è«‹é»é¸ç”¨æˆ¶è¨»å†Šï¼Œå°‡æœƒå–å¾—è©²ç™»å…¥ç”¨æˆ¶çš„ç™¼é€è¨Šæ¯token</li>
+<li>æ¥è‘—è¼¸å…¥è¨Šæ¯å¾Œï¼ŒæŒ‰ä¸‹ç™¼é€éˆ•å³å¯æ¸¬è©¦</li>
 </ol>
+Hands-on lab
+===
+https://hackmd.io/s/H1FjUse_4
