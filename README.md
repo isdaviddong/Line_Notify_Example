@@ -16,5 +16,7 @@
 <li>請點選用戶註冊，將會取得該登入用戶的發送訊息token</li>
 <li>接著輸入訊息後，按下發送鈕即可測試</li>
 </ol>
+
 ## Hands-on lab
+
 https://hackmd.io/s/H1FjUse_4
