@@ -1,7 +1,7 @@
 # Line Notify Example
 
 <br/>這個範例展示如何使用 Line Notify ，透過OAuth取得可發送Line訊息給用戶的Token
-<br/>並透過該Token免費發送Line Message
+<br/>並透過該Token免費發送Line Message  (如果已取得Token, 只需要發訊息, 則只要一行程式即可, isRock.LineNotify.Utility.SendNotify(...) )
 <br/>Line Notify 概念請參考 http://studyhost.blogspot.tw/2016/12/linebot6-botline-notify.html
 
 <br/>說明: 
